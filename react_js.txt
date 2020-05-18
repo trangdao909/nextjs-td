@@ -1,0 +1,20 @@
+REACT
+class extends and use contructor => super() method inside child constructor. In ES6, no need super()
+in js, string is primitive; array and oject is reference
+filter()
+map() : accept function that do sth with each element
+install react on local machine: https://github.com/facebook/create-react-app
+	npm install create-react-app -g
+create a react project:
+	create-react-app react-complete-guide --scripts-version 1
+watch and update change on project:
+	npm start
+Note: 
+	1 root element under return of render function
+	"this": refer to the class
+	do not add () after function called bc it will render when DOM loaded, instead use reference to the function: <button onClick={this.switchNameHandler}></button>
+	event.target.value : what typed in the input tag
+	bind(this, value) : bind data one way
+
+rm -rf .git: undo git init
+	
