@@ -109,7 +109,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _MeetupDetail_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./MeetupDetail.module.css */ "./components/meetups/MeetupDetail.module.css");
 /* harmony import */ var _MeetupDetail_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_MeetupDetail_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "E:\\CS\\React_JS\\projects\\23.next-js-bigger-project\\components\\meetups\\MeetupDetail.js";
+var _jsxFileName = "/mnt/e/CS/React_JS/projects/23.next-js-bigger-project/components/meetups/MeetupDetail.js";
 
 
 
@@ -189,7 +189,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "E:\\CS\\React_JS\\projects\\23.next-js-bigger-project\\pages\\[meetupId]\\index.js";
+var _jsxFileName = "/mnt/e/CS/React_JS/projects/23.next-js-bigger-project/pages/[meetupId]/index.js";
 
 
 

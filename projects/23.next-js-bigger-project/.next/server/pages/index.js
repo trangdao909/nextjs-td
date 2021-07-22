@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/router */ "next/router");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "E:\\CS\\React_JS\\projects\\23.next-js-bigger-project\\components\\meetups\\MeetupItem.js";
+var _jsxFileName = "/mnt/e/CS/React_JS/projects/23.next-js-bigger-project/components/meetups/MeetupItem.js";
 
 
 
@@ -222,7 +222,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./MeetupList.module.css */ "./components/meetups/MeetupList.module.css");
 /* harmony import */ var _MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "E:\\CS\\React_JS\\projects\\23.next-js-bigger-project\\components\\meetups\\MeetupList.js";
+var _jsxFileName = "/mnt/e/CS/React_JS/projects/23.next-js-bigger-project/components/meetups/MeetupList.js";
 
 
 
@@ -279,7 +279,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Card_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Card.module.css */ "./components/ui/Card.module.css");
 /* harmony import */ var _Card_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Card_module_css__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "E:\\CS\\React_JS\\projects\\23.next-js-bigger-project\\components\\ui\\Card.js";
+var _jsxFileName = "/mnt/e/CS/React_JS/projects/23.next-js-bigger-project/components/ui/Card.js";
 
 
 function Card(props) {
@@ -332,7 +332,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "E:\\CS\\React_JS\\projects\\23.next-js-bigger-project\\pages\\index.js";
+var _jsxFileName = "/mnt/e/CS/React_JS/projects/23.next-js-bigger-project/pages/index.js";
 
 
 
